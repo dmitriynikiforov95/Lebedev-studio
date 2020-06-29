@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9d519a56de596bf85f004b97d9871476",
+    "revision": "4e8ac8cbe78b2163eb08e515153557dd",
     "url": "/lebedev-studio/index.html"
   },
   {
-    "revision": "b7760190ba2d9c04e5d9",
+    "revision": "6743f5da5dafb5e2f69c",
     "url": "/lebedev-studio/static/css/main.0df9c1b3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lebedev-studio/static/js/2.740ac2a9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b7760190ba2d9c04e5d9",
-    "url": "/lebedev-studio/static/js/main.44f1c2de.chunk.js"
+    "revision": "6743f5da5dafb5e2f69c",
+    "url": "/lebedev-studio/static/js/main.6e26e0e0.chunk.js"
   },
   {
     "revision": "a4fc0298aee9e97bcc65",

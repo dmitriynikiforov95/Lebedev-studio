@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/lebedev-studio/static/css/main.0df9c1b3.chunk.css",
-    "main.js": "/lebedev-studio/static/js/main.44f1c2de.chunk.js",
-    "main.js.map": "/lebedev-studio/static/js/main.44f1c2de.chunk.js.map",
+    "main.js": "/lebedev-studio/static/js/main.6e26e0e0.chunk.js",
+    "main.js.map": "/lebedev-studio/static/js/main.6e26e0e0.chunk.js.map",
     "runtime-main.js": "/lebedev-studio/static/js/runtime-main.adf74c5a.js",
     "runtime-main.js.map": "/lebedev-studio/static/js/runtime-main.adf74c5a.js.map",
     "static/js/2.740ac2a9.chunk.js": "/lebedev-studio/static/js/2.740ac2a9.chunk.js",
     "static/js/2.740ac2a9.chunk.js.map": "/lebedev-studio/static/js/2.740ac2a9.chunk.js.map",
     "index.html": "/lebedev-studio/index.html",
-    "precache-manifest.7aec6979450f69fd3594cbff78559b7d.js": "/lebedev-studio/precache-manifest.7aec6979450f69fd3594cbff78559b7d.js",
+    "precache-manifest.d629819b80458273aa7e2c69e4eacf5c.js": "/lebedev-studio/precache-manifest.d629819b80458273aa7e2c69e4eacf5c.js",
     "service-worker.js": "/lebedev-studio/service-worker.js",
     "static/css/main.0df9c1b3.chunk.css.map": "/lebedev-studio/static/css/main.0df9c1b3.chunk.css.map",
     "static/js/2.740ac2a9.chunk.js.LICENSE.txt": "/lebedev-studio/static/js/2.740ac2a9.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.adf74c5a.js",
     "static/js/2.740ac2a9.chunk.js",
     "static/css/main.0df9c1b3.chunk.css",
-    "static/js/main.44f1c2de.chunk.js"
+    "static/js/main.6e26e0e0.chunk.js"
   ]
 }
