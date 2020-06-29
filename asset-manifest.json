@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lebedev-studio/static/css/main.0df9c1b3.chunk.css",
+    "main.js": "/lebedev-studio/static/js/main.2901601d.chunk.js",
+    "main.js.map": "/lebedev-studio/static/js/main.2901601d.chunk.js.map",
+    "runtime-main.js": "/lebedev-studio/static/js/runtime-main.adf74c5a.js",
+    "runtime-main.js.map": "/lebedev-studio/static/js/runtime-main.adf74c5a.js.map",
+    "static/js/2.740ac2a9.chunk.js": "/lebedev-studio/static/js/2.740ac2a9.chunk.js",
+    "static/js/2.740ac2a9.chunk.js.map": "/lebedev-studio/static/js/2.740ac2a9.chunk.js.map",
+    "index.html": "/lebedev-studio/index.html",
+    "precache-manifest.c5e225ecf08aaa4b62454938ce6c7997.js": "/lebedev-studio/precache-manifest.c5e225ecf08aaa4b62454938ce6c7997.js",
+    "service-worker.js": "/lebedev-studio/service-worker.js",
+    "static/css/main.0df9c1b3.chunk.css.map": "/lebedev-studio/static/css/main.0df9c1b3.chunk.css.map",
+    "static/js/2.740ac2a9.chunk.js.LICENSE.txt": "/lebedev-studio/static/js/2.740ac2a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adf74c5a.js",
+    "static/js/2.740ac2a9.chunk.js",
+    "static/css/main.0df9c1b3.chunk.css",
+    "static/js/main.2901601d.chunk.js"
+  ]
+}
